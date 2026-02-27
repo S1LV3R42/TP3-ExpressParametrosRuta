@@ -4,7 +4,7 @@ Prácticas de introducción a Node.js abordando modularización, gestión de paq
 
 ---
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 TP3/
@@ -23,7 +23,7 @@ TP3/
 
 ---
 
-## 📌 Contenido
+## Contenido
 
 ### Ejemplo: Superhéroes
 Demostración de modularización en Node.js. `utils.mjs` exporta las funciones `leerSuperheroes` y `agregarSuperheroes`, que son importadas y utilizadas desde `index.mjs` para leer, ordenar y actualizar una lista de superhéroes almacenada en archivos `.txt` (formato JSON).
@@ -39,7 +39,7 @@ Servidor Express que captura el parámetro de consulta `edad` desde la URL (`/pr
 
 ---
 
-## 🚀 Cómo ejecutar
+## Cómo ejecutar
 
 1. Instalar dependencias en la carpeta correspondiente:
    ```bash
